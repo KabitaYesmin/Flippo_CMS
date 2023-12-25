@@ -1,1 +1,1 @@
-# Flippo_CMS
+neoflex-video-subscription-cms
